@@ -32,7 +32,7 @@ If you want to clone this repository and use it for your own practice, follow th
 ### 1. Clone the repository
 Open your terminal and run the following command to download the repository to your local machine:
 ```bash
-git clone https://github.com
+git clone [https://github.com/dipeshbhatt000/Practice_Git]
 ```
 
 ### 2. Navigate into the directory
